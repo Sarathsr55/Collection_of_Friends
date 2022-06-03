@@ -1,0 +1,11 @@
+.friend-container{
+    display: flex;
+    flex-direction: column;
+    line-height: 1rem;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(208, 249, 235);
+    margin: 25px;
+    margin-top: 50px;
+    border-radius: 25px;
+}
